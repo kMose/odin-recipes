@@ -1,0 +1,10 @@
+.center-title{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: Macondo, sans-serif;
+}
+
+.background-style{
+    background-color: grey;
+}
