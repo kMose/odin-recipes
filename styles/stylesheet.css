@@ -5,6 +5,11 @@
     font-family: Macondo, sans-serif;
 }
 
+body {
+    font-family: 'IBM Plex Serif', serif;
+    font-weight: bold;
+}
+
 .background-style{
     background-color: grey;
 }
